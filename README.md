@@ -1,4 +1,4 @@
-# Spinal cord ssegmentation projet
+# Spinal cord Segmentation projet
 
 This folder contains all the elements to build a U-net segmenting the grey and white matter from MRI 3D images.
 The Spinal_Cord_Segmentation.ipynb file contains and shows all the steps that are necessary to achieve segmentation. 
